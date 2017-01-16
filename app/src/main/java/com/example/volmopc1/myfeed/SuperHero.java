@@ -7,6 +7,7 @@ public class SuperHero {
     private String name;
     private String publisher;
 //////////////////////////////////////////
+    //////
     //Getters and Setters
     public String getImageUrl() {
         return imageUrl;
